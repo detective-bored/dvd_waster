@@ -28,7 +28,7 @@ function setup() {
 }
 
 function draw() {
-  background(0);
+  background( "#313638");
   // console.log('Hello World');
   // console.log('3+6');
   // circle(325,325, 100);
